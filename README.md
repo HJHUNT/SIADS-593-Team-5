@@ -11,12 +11,12 @@ Run the requirements.txt to simulate the running environment that the team used
 
 ### requirements.txt
 Can create a virtualpython environments and have it call all of the dependency in one pip install
-**Using a requirements.txt** 
+#### Using a requirements.txt 
 https://note.nkmk.me/en/python-pip-install-requirements/
 - Make sure the requirements.txt is in your working directory or point at it.
 - pip install -r requirements.txt
 
-**Create a requirements.txt** 
+####Create a requirements.txt
 https://note.nkmk.me/en/python-package-version/
 - pip freeze
 - Copy and paste the contents for the return into a requirements.txt file
