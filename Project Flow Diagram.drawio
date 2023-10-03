@@ -1,0 +1,170 @@
+<mxfile modified="2023-09-30T00:04:37.261Z" host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="qMPXSSdG35CQTf8d3BTb" version="21.7.5" type="device" pages="2">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="281" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="10" y="170" width="1020" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;fontColor=#000000;strokeColor=#000000;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="217" width="270" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="760" y="217" width="260" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="300" y="217" width="460" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-18" value="Car Sales Data" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;fillColor=#bac8d3;strokeColor=#020405;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="140" y="281" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-18" vertex="1">
+          <mxGeometry y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-23" value="Monday&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tuesday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Wensday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tursday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Friday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Saterday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Sunday&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-22" vertex="1">
+          <mxGeometry width="60" height="120" as="geometry">
+            <mxRectangle width="60" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-24" value="#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-22" vertex="1">
+          <mxGeometry x="60" width="60" height="120" as="geometry">
+            <mxRectangle width="60" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="7HLibCClv18u5HIUKzJE-25" target="7HLibCClv18u5HIUKzJE-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#000000;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.excel_services;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="47" y="356.5" width="60" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="7HLibCClv18u5HIUKzJE-26" target="7HLibCClv18u5HIUKzJE-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-26" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.yahoo_2;fillColor=#65106E;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="37" y="560.3" width="80" height="46.6" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-31" value="Stock/ Index/ Crypto" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fillColor=#bac8d3;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="140" y="483.6" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-31" vertex="1">
+          <mxGeometry y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-33" value="Monday&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tuesday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Wensday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tursday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Friday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Saterday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Sunday&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-32" vertex="1">
+          <mxGeometry width="60" height="120" as="geometry">
+            <mxRectangle width="60" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-34" value="#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: var(--su12); border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; line-height: var(--lh-md); font-family: var(--ff-mono); font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--fs-body1); vertical-align: baseline; box-sizing: inherit; width: auto; max-height: 600px; overflow: auto; background-color: var(--highlight-bg); border-radius: var(--br-md); --_cb-line-numbers-bg: var(--black-050); overflow-wrap: normal; text-align: left;&quot; class=&quot;lang-py s-code-block&quot;&gt;&lt;code style=&quot;margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--_pr-code-fs); vertical-align: baseline; box-sizing: inherit; background-color: transparent;&quot; class=&quot;hljs language-python&quot;&gt;NaN&lt;/code&gt;&lt;/pre&gt;&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: var(--su12); border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; line-height: var(--lh-md); font-family: var(--ff-mono); font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--fs-body1); vertical-align: baseline; box-sizing: inherit; width: auto; max-height: 600px; overflow: auto; background-color: var(--highlight-bg); border-radius: var(--br-md); --_cb-line-numbers-bg: var(--black-050); overflow-wrap: normal; text-align: left;&quot; class=&quot;lang-py s-code-block&quot;&gt;&lt;code style=&quot;margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--_pr-code-fs); vertical-align: baseline; box-sizing: inherit; background-color: transparent;&quot; class=&quot;hljs language-python&quot;&gt;NaN&lt;/code&gt;&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-32" vertex="1">
+          <mxGeometry x="60" width="60" height="120" as="geometry">
+            <mxRectangle width="60" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-41" value="Pandas DataFrame" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="140" y="251" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-42" value="Pandas DataFrame" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="140" y="453.6" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontColor=#000000;strokeColor=#000000;" parent="1" source="7HLibCClv18u5HIUKzJE-50" target="7HLibCClv18u5HIUKzJE-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="584" as="sourcePoint" />
+            <mxPoint x="350" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-44" value="Car Sales Data &amp; Stock/ Index/ Crypto" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#010203;fillColor=#bac8d3;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="422" y="356" width="218" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-44" vertex="1">
+          <mxGeometry y="40" width="218" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-46" value="Monday&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tuesday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Wensday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tursday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Friday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Saterday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Sunday&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-45" vertex="1">
+          <mxGeometry width="73" height="120" as="geometry">
+            <mxRectangle width="73" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-47" value="#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-45" vertex="1">
+          <mxGeometry x="73" width="72" height="120" as="geometry">
+            <mxRectangle width="72" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-51" value="#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;&lt;pre style=&quot;border: 0px; font-size: var(--fs-body1); background-color: var(--highlight-bg); margin-top: 0px; margin-bottom: 0px; padding: var(--su12); font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; line-height: var(--lh-md); font-family: var(--ff-mono); font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; box-sizing: inherit; width: auto; max-height: 600px; overflow: auto; border-radius: var(--br-md); --_cb-line-numbers-bg: var(--black-050); overflow-wrap: normal; text-align: left;&quot; class=&quot;lang-py s-code-block&quot;&gt;&lt;code style=&quot;border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--_pr-code-fs); vertical-align: baseline; box-sizing: inherit; background-color: transparent;&quot; class=&quot;hljs language-python&quot;&gt;NaN&lt;/code&gt;&lt;/pre&gt;&lt;pre style=&quot;border: 0px; font-size: var(--fs-body1); background-color: var(--highlight-bg); margin-top: 0px; margin-bottom: 0px; padding: var(--su12); font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-stretch: inherit; line-height: var(--lh-md); font-family: var(--ff-mono); font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; box-sizing: inherit; width: auto; max-height: 600px; overflow: auto; border-radius: var(--br-md); --_cb-line-numbers-bg: var(--black-050); overflow-wrap: normal; text-align: left;&quot; class=&quot;lang-py s-code-block&quot;&gt;&lt;code style=&quot;border: 0px; margin: 0px; padding: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: var(--_pr-code-fs); vertical-align: baseline; box-sizing: inherit; background-color: transparent;&quot; class=&quot;hljs language-python&quot;&gt;NaN&lt;/code&gt;&lt;/pre&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-45" vertex="1">
+          <mxGeometry x="145" width="73" height="120" as="geometry">
+            <mxRectangle width="73" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-48" value="Pandas DataFrame" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="422" y="326" width="218" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-49" value="Merge DataFrames" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="297" y="421" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-50" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="227" y="240" width="130" height="431" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-53" value="Yahoo&lt;br&gt;Finance&lt;br&gt;API" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="37" y="500.29999999999995" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-54" value="Kaggel&lt;br&gt;Car Sales Data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="47" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-65" value="Pandas DataFrame" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="777" y="326" width="223" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-66" value="Forwards/&lt;br&gt;Backwards Fill" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="650" y="421" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontColor=#000000;strokeColor=#000000;" parent="1" source="7HLibCClv18u5HIUKzJE-45" target="7HLibCClv18u5HIUKzJE-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="466" as="sourcePoint" />
+            <mxPoint x="736" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-68" value="Car Sales Data &amp; Stock/ Index/ Crypto" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#010203;fillColor=#bac8d3;fontColor=#030303;" parent="1" vertex="1">
+          <mxGeometry x="777" y="356" width="223" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-68" vertex="1">
+          <mxGeometry y="40" width="223" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-70" value="Monday&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tuesday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Wensday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Tursday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Friday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Saterday&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Sunday&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-69" vertex="1">
+          <mxGeometry width="75" height="120" as="geometry">
+            <mxRectangle width="75" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-71" value="#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;#&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-69" vertex="1">
+          <mxGeometry x="75" width="73" height="120" as="geometry">
+            <mxRectangle width="73" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HLibCClv18u5HIUKzJE-72" value="#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;#&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;#&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;" parent="7HLibCClv18u5HIUKzJE-69" vertex="1">
+          <mxGeometry x="148" width="75" height="120" as="geometry">
+            <mxRectangle width="75" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-4" value="Data Sources" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="30" y="187" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-7" value="Data Manipulation" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="300" y="187" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LuKrPJt3-Svc0JRSH_Na-8" value="Data Set Used For Visualization" style="text;strokeColor=#000000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="760" y="187" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="37MIpAWBFcDefiRnW2gp" name="Page-2">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XIIjgprZG2nBQdgXGl2f-9" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="250" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XIIjgprZG2nBQdgXGl2f-10" value="&lt;p style=&quot;font-size: 15px; line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Monday&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Tuesday&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Wednesday&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Thursday&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Friday&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Saturday&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(32, 33, 36);&quot;&gt;Sunday&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="XIIjgprZG2nBQdgXGl2f-9" vertex="1">
+          <mxGeometry y="30" width="140" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
